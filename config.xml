@@ -9,11 +9,11 @@
     <name>Moodle</name>
 
     <description>
-        Moodle official app
+        ATLAS official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="#" email="sikandar.khan@szabist.edu.pk">
+        CS A-Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
